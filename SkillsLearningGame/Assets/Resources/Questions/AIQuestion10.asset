@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a7b2872b0fe54fb894b977135836f9f, type: 3}
+  m_Name: AIQuestion10
+  m_EditorClassIdentifier: 
+  question: 'From retail to education, AI technology plays an important role in reinventing
+    industries and transforming our world. Which of the following are examples of
+    key AI technologies.  '
+  difficulty: 1
+  category: AI
+  cardSubject: 0
+  link: https://www.ibm.com/academic/topic/artificial-intelligence
+  answers:
+  - 'Virtual agents and computer vision  '
+  - 'Education and healthcare  '
+  - 'Privacy and bias  '
+  - 'Personalization and automation  '

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a7b2872b0fe54fb894b977135836f9f, type: 3}
+  m_Name: AIQuestion1
+  m_EditorClassIdentifier: 
+  question: The key difference between narrow intelligence and broad intelligence
+    is best described by which of the following phrases?
+  difficulty: 1
+  category: AI
+  cardSubject: 0
+  link: https://www.ibm.com/academic/topic/artificial-intelligence
+  answers:
+  - "Narrow AI can only do a certain task - and it can do it quite well, but narrow
+    AI can\u2019t transfer its knowledge to different sorts of problems as with Broad
+    AI"
+  - Broad intelligence requires huge amounts of data, whereas narrow intelligence
+    relies on minimum data
+  - Narrow and Broad intelligence is distinguished by the complexity of algorithms
+  - Broad intelligence can extract meaning from images, whereas Narrow intelligence
+    is best suited for language processing

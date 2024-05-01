@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a7b2872b0fe54fb894b977135836f9f, type: 3}
+  m_Name: DSQuestion42
+  m_EditorClassIdentifier: 
+  question: "Jasmeen is a data scientist who is in the middle of a project exploring
+    conservation data from zoos and aquariums for penguins. Jasmine is predicting
+    the future population trends of a specific species of penguin. She is structuring
+    and organizing the data from many sources so it\u2019s in the best format possible
+    to support an efficient machine learning model.  In which step of the data science
+    methodology is Jasmeen working? "
+  difficulty: 1
+  category: DS
+  cardSubject: 1
+  link: https://www.ibm.com/academic/topic/artificial-intelligence
+  answers:
+  - Data representation and transformation
+  - Data visualization and presentation
+  - Business understanding
+  - Deploy data models

@@ -1,0 +1,57 @@
+Background: Image by upklyak on Freepik
+Cost Circle: https://en.m.wiktionary.org/wiki/File:Circle_Davys-Grey_Solid.svg
+Attack Image: Image by catalyststuff on Freepik
+Character Image: Image by upklyak on Freepik
+Enemy Image: Image by upklyak on Freepik
+Block Image: Image by rawpixel.com on Freepik
+Heart Image: Image by juicy_fish on Freepik
+Draw and Discard Image: Image by Freepik
+Cost image: Image by milano83 on Freepik
+End Turn Image: Image by jcomp on Freepik
+HUD Image: Image by babysofja on Freepik
+Block HP Bar image: Image by rawpixel.com on Freepik
+Heal Image: Image by Freepik
+Strenght Image: Image by catalyststuff on Freepik
+Weaken image: https://www.flaticon.com/free-icons/fairy-tale" title="fairy tale icons Fairy tale icons created by Hamstring - Flaticon
+Broken Heart: https://www.freepik.com/search?format=search&query=2d%20game%20broken%20heart&type=icon, Icon by Smashicons
+
+For the level images, credits go to:
+Delapouite: https://delapouite.com
+Lorc: https://lorcblog.blogspot.com
+Carl Olsen: https://twitter.com/unstoppableCarl
+Cathelineau
+
+Pannels for the map were taken from Kenney in UI Pack (RPG Expansion): www.kenney.nl. Exact link is: https://www.kenney.nl/assets/ui-pack-rpg-expansion
+
+Money image: https://www.freepik.com/icon/money_12648151#fromView=search&page=3&position=58&uuid=35108a20-7bfe-4775-8bb6-7fd2968c24e0, Icon by Ylivdesign
+
+Hourglass image: https://www.freepik.com/icon/hourglass_9097875#fromView=search&page=1&position=1&uuid=544c5490-a649-4e2b-87b6-0426bdc085bf, Icon by Freepik
+
+QuizBattle level selection image: https://www.freepik.com/search?format=search&last_filter=page&last_value=4&page=4&query=2d+game+white+questionmark&type=icon#uuid=7fe1eafb-8df9-4810-9226-66caec8b8820, Icon by Freepik
+
+Shop icon: https://www.freepik.com/icon/food_12681654#fromView=search&page=2&position=87&uuid=b19c9f33-965c-4c66-b6dd-b81767c03164, Icon by Ylivdesign
+
+Settings Cog: https://www.freepik.com/icon/engineering_9584120#fromView=search&page=1&position=48&uuid=2a97f0c6-10c9-4d27-928a-185c71362f29, Icon by Freepik
+
+Deck button image: https://www.freepik.com/icon/cards_13475244#fromView=search&page=1&position=38&uuid=7ad69d61-b64f-4647-92fd-bfd962be0129, Icon by Astatine
+
+Arrow Icon: https://www.flaticon.com/free-icons/next, Next icons created by Alfredo Hernandez - Flaticon
+
+Golem enemy image: https://www.freepik.com/free-vector/golem-cartoon-character-stone-monster-mythical-creature-with-strong-hands-glowing-eyes-rocky-body-covered-with-moss-fairy-tale-personage-isolated-white-background-vector-illustration-set_21473339.htm#fromView=search&page=1&position=46&uuid=0a397efd-91b0-4e71-ac70-adcebe2ad3f7, Image by upklyak on Freepik
+
+Mech enemy image: https://www.freepik.com/free-vector/cartoon-robot-guards-human-exoskeleton-armor_3685371.htm#fromView=search&page=1&position=1&uuid=2188074a-84b7-4ada-ad08-77a1aeabc0d4, Image by vectorpocket on Freepik
+
+boss fight image: https://www.freepik.com/free-vector/future-robotic-soldiers-cyborg-medic-armed-pistols-saboteur-with-shotgun-explosive_4393622.htm#from_view=detail_alsolike, Image by vectorpocket on Freepik
+
+Rest UI number circle from: https://www.freepik.com/free-psd/still-life-colorful-paint-can-isolated_151167036.htm#fromView=search&page=6&position=0&uuid=27e28f41-530c-479c-9d1c-e160c098d501, Image by freepik
+and also from: https://www.freepik.com/free-vector/realistic-golden-frame-design_22644641.htm#fromView=search&page=13&position=4&uuid=27e28f41-530c-479c-9d1c-e160c098d501 Image by freepik
+
+shop icon: https://www.freepik.com/search", Icon by Freepik
+
+stats icon: https://www.freepik.com/icon/stock-market_7984377#fromView=search&page=1&position=21&uuid=bc9efa74-8efd-4f74-b28e-6d7f96331047", Icon by Freepik
+
+quiz battle icon: https://www.freepik.com/icon/lifebuoy_4196264#fromView=search&page=2&position=92&uuid=b4bb0457-3ebf-4ab6-8261-5c00821a8d4b, Icon by Freepik
+
+quiz battle questionmark: https://www.freepik.com/search#uuid=1b07f937-39f5-41a6-9a76-ba67de07f7c4, Icon by Freepik
+
+arrows for deck view, from kenny: https://kenney.nl/assets/cursor-pack

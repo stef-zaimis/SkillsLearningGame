@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 52efff379e263c54c85b5d4d22280f17
+  - enabled: 1
+    path: Assets/Scenes/LevelSelectionScene.unity
+    guid: 714ee350e1e26ae42999b86a3450e646
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: d071f091a94713c4482022d02ce388aa
+  - enabled: 1
+    path: Assets/Scenes/Fight.unity
+    guid: e1f9235524711fa4d8b0243a501cc3e6
+  - enabled: 1
+    path: Assets/Scenes/QuestionScene.unity
+    guid: b2bf733b08c8042dfb4bce05bf7ae1db
+  - enabled: 1
+    path: Assets/Scenes/InstructionScene.unity
+    guid: 668ee9ef75b594e89888c8b760827c14
+  - enabled: 1
+    path: Assets/Scenes/QuizBattle.unity
+    guid: 433ba198400e54dcca9e7c84b2d985e0
+  - enabled: 1
+    path: Assets/Scenes/Shop.unity
+    guid: aa9187f27fb686941849e6fc2fb1fc28
+  - enabled: 1
+    path: Assets/Scenes/SettingsMenu.unity
+    guid: eedde37eeade9634682ba8d106469495
+  - enabled: 1
+    path: Assets/Scenes/StatisticsScene.unity
+    guid: 3079572dec9c94a2f84ce17e988849fc
+  - enabled: 1
+    path: Assets/Scenes/RestScene.unity
+    guid: 2a476707ff35a4764a5f98c7e67ce7de
+  m_configObjects: {}
